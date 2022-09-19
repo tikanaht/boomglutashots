@@ -1,0 +1,15 @@
+{
+  "name": "boomglutashots",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Boom Gluta Shots ส่งเสริมการสร้างกลูตาไธโอนในร่างกาย ป้องกันการเกิดฝ้า ปกป้องผิวจากการทำลายของแสงแดด ส่งเสริมประสิทธิภาพสารต้านอนุมูลอิสระ",
+  "keywords": [
+    "boom gluta shots","gluta shots"
+  
+  ],
+  "repository": "git@github.com:tikanaht/boomglutashots.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
